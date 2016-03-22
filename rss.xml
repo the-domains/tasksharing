@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[tasksharing]]></title>
+        <description><![CDATA[tasksharing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 23:24:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our goal is to share task for other people to do so that it can lighten the burden of the task giver at the same time creating a temporary employment for the task doers.</p>]]></description>
+            <link>undefined50de760f-1a96-4b9f-8dec-82aadbdf938a/index.html</link>
+            <guid isPermaLink="false">50de760f-1a96-4b9f-8dec-82aadbdf938a</guid>
+            <pubDate>Tue, 22 Mar 2016 23:24:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
